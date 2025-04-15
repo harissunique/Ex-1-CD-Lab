@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number : 212223230073
-# Date : 10/04/25
+# Date : 15/04/25
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
